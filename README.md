@@ -11,11 +11,11 @@
 
 - [知識總覽](overview.md)：核心概念、跨來源共識與適用範圍。
 - [來源索引與檢查紀錄](sources.md)：五篇已讀取資料、來源日期及在簡報中的用途。
-- [S01 WHO：身體活動事實表](sources/01-who-physical-activity.md)
-- [S02 CDC：成人活動建議](sources/02-cdc-adults.md)
-- [S03 CDC：成人活動如何計算](sources/03-cdc-what-counts.md)
-- [S04 NHS：居家肌力練習](sources/04-nhs-strength.md)
-- [S05 ODPHP：美國身體活動指南](sources/05-odphp-guidelines.md)
+- [S01 WHO：身體活動事實表](01-who-physical-activity.md)
+- [S02 CDC：成人活動建議](02-cdc-adults.md)
+- [S03 CDC：成人活動如何計算](03-cdc-what-counts.md)
+- [S04 NHS：居家肌力練習](04-nhs-strength.md)
+- [S05 ODPHP：美國身體活動指南](05-odphp-guidelines.md)
 
 ## 建立與使用方式
 
